@@ -16,5 +16,3 @@ model User {
 
   @@map("users")
 }
-
-// 1:03:50
