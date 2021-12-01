@@ -1,5 +1,5 @@
 # Heat
 
-## ferramentasa
+## ferramentas
 #### NodeJS
 #### React
