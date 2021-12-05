@@ -1,4 +1,4 @@
-# Heat - Rocketseat
+# Heat Rocketseat
 
 ## semana NLW
 
