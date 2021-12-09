@@ -1,6 +1,6 @@
 # Heat Rocketseat
 
-## semana NLW
+## este projeto foi realizado na semana NLW
 
 ## ferramentas
 #### NodeJS
