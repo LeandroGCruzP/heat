@@ -1,4 +1,4 @@
-# Heat Rocketseat
+# Heat 
 
 ## Este projeto foi realizado na semana NLW
 
